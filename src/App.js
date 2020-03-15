@@ -9,6 +9,7 @@ function App() {
 				practicing react app deployment
 			</div>
 			other stuff blah blah
+			<div style={{ background: "cornflowerblue" }}>more stuff</div>
 		</div>
 	);
 }
