@@ -11,8 +11,9 @@ function App() {
 			other stuff blah blah
 			<div style={{ background: "cornflowerblue" }}>more stuff</div>
 			<div style={{ background: "lightgreen" }}>trying more stuff</div>
-
 			<div style={{ background: "pink" }}>one more time</div>
+			<div style={{ background: "indianred" }}>one more time</div>
+
 		</div>
 	);
 }
