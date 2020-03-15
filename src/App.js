@@ -8,6 +8,7 @@ function App() {
 			<div style={{ background: "yellow" }}>
 				practicing react app deployment
 			</div>
+			other stuff blah blah
 		</div>
 	);
 }
