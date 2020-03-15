@@ -10,6 +10,8 @@ function App() {
 			</div>
 			other stuff blah blah
 			<div style={{ background: "cornflowerblue" }}>more stuff</div>
+			<div style={{ background: "lightgreen" }}>trying more stuff</div>
+
 		</div>
 	);
 }
